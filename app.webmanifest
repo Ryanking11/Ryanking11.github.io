@@ -1,0 +1,20 @@
+{
+   "name": "Play plus app",
+   "start_url": "/playsite/",
+   "display": "standalone",
+   "icons": [
+       {
+         "src":"play_logo_256.png",
+         "sizes": "any",
+         "type": "image/png"
+       },
+       {
+          "src":"play_logo_512.png",
+          "sizes": "512x512",
+          "type": "image/png"
+       }
+     ],
+   "background_color": "#3367D6",
+   "theme_color": "#3367D6",
+   "scope": "/playsite/"
+}
