@@ -1,6 +1,6 @@
 {
-   "name": "Play plus app",
-   "start_url": "/playsite/",
+   "name": "Play Store",
+   "start_url": "/index.html",
    "display": "standalone",
    "icons": [
        {
@@ -16,5 +16,4 @@
      ],
    "background_color": "#3367D6",
    "theme_color": "#3367D6",
-   "scope": "/playsite/"
 }
